@@ -1,8 +1,6 @@
 # Fettuccine al burro
 
-## Attempt 1
-
-### Ingredients
+## Ingredients
 
 * chicken breast
 * soy sauce
@@ -14,6 +12,8 @@
 * parmigiano reggiano cheese
 * black pepper
 * unsalted butter
+
+## Attempt 1
 
 ### Action
 
@@ -50,3 +50,15 @@ I liked it, my brother liked it /he was full so had just a taste/.
 * A lot of undissolved grana padano at the bottom of the pot in the end. Next time I will 
   add water before cheese the first time, see if it helps.
 * The more you stir the pasta and the ingredients, the mushier it gets, so stir wisely.
+
+## Attempt 2
+
+### Action
+
+The action was more or less the same. This time I was cooking for three, the previous one
+was a solo action, so that threw me off.
+
+### Outtakes
+
+* The *less starch* idea was good
+* This time I added too much cheese and the whole thing got too mushy. Need more water.
