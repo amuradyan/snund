@@ -62,3 +62,17 @@ was a solo action, so that threw me off.
 
 * The *less starch* idea was good
 * This time I added too much cheese and the whole thing got too mushy. Need more water.
+
+## Attempt 3
+
+### Action
+
+Boiled the fettuccine for ten minutes this time. Went in with 7 fatty garlic cloves for 
+the chicken oil, slightly overcooked the chicken. 
+
+The water/cheese ratio in the sauce was
+good this time, thought there was a thick residue on the bottom of the pot. I think I 
+should not combine the pasta and the sauce in a separate bowl. Will try that next time.
+
+Threw some roughly chopped green basil leaves in sauce in the end - worked great, will
+do more next time.
